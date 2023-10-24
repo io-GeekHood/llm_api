@@ -1,0 +1,12 @@
+version: "3"
+services:
+  llm_rest:
+    build: .
+    restart: always
+    hostname: llm_rest
+    ports:
+      - 8080:5533
+    environment:
+      - ENVATO BZAR=172.27.226.110
+
+

@@ -1,0 +1,3 @@
+[console_scripts]
+llm_api = llm_api.cmd:main
+

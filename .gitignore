@@ -1,0 +1,12 @@
+idea
+bin
+etc
+include
+lib
+lib64
+test.py
+search_api/search_api.egg-info
+pyvenv.cfg
+__pycache__
+data
+model
