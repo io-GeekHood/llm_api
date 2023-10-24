@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 name = 'llm_api'
 version = os.getenv('VERSION', '1')
-description = 'search api rest service'
+description = 'llm api rest service'
 url = 'https://repo.git'
 author = 'Mohammadamin KatebSaber'
 author_email = 'katebsaber@gmail.com'
